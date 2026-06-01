@@ -1,6 +1,3 @@
-Here’s a simple, clear, and descriptive **README.md** you can upload to your GitHub repository for your Flappy Bird game:
-
-```markdown
 # 🐤 Flappy Bird Game (Python + Pygame)
 
 A simple recreation of the classic **Flappy Bird** game built using **Python** and **Pygame**.  
@@ -75,7 +72,3 @@ Make sure these files are in the same directory as the Python script.
 ## 📜 License
 This project is open-source. Feel free to modify and improve it!
 ```
-
-This README is simple, descriptive, and beginner-friendly. It explains what the project is, how to install and run it, and what assets are needed.  
-
-Would you like me to also create a **shorter version** (just a few lines) for a minimal GitHub README, or do you prefer keeping this detailed one?
