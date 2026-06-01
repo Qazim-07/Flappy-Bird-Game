@@ -70,4 +70,10 @@ Make sure these files are in the same directory as the Python script.
 
 ---
 
+## 👤 Author
+- **Qazim-07**  
+- GitHub: [Qazim-07](https://github.com/Qazim-07)
+
+---
+
 This project is open-source. Feel free to modify and improve it!
