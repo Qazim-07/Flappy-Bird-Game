@@ -70,6 +70,4 @@ Make sure these files are in the same directory as the Python script.
 
 ---
 
-## 📜 License
 This project is open-source. Feel free to modify and improve it!
-```
