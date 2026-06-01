@@ -1,4 +1,4 @@
-# 🐤 Flappy Bird Game (Python + Pygame)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd8f5dc8-8d03-4e98-bed2-040929ea8c6c" /># 🐤 Flappy Bird Game (Python + Pygame)
 
 A simple recreation of the classic **Flappy Bird** game built using **Python** and **Pygame**.  
 The player controls a bird that must fly between sets of pipes without colliding. The game keeps track of the score and ends when the bird hits a pipe or falls off the screen.
@@ -58,7 +58,7 @@ Make sure these files are in the same directory as the Python script.
 ---
 
 ## 🖼️ Screenshot
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b75a6f4a-e4b8-481d-ae24-2bbc9e1b005c" />
 
 
 ---
