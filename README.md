@@ -58,7 +58,8 @@ Make sure these files are in the same directory as the Python script.
 ---
 
 ## 🖼️ Screenshot
-*(Add a screenshot of your game here once you run it!)*
+![Uploading image.png…]()
+
 
 ---
 
